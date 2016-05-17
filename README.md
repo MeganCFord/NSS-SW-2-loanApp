@@ -28,7 +28,7 @@ cd 2-loan-app
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-2-loanApp/)
 
 
 ![screenshot](loan-app-screenshot.jpg)
