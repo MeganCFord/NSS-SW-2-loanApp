@@ -18,6 +18,11 @@ NSS Front-End Milestone 1 (Static Web) Exercise 2:
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/exercises/SW_HTML_BANKING_FORM.md)
 
 
+NSS Front-End Milestone 1 (Static Web) Exercise 6: 
+
+
+[Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/exercises/SW_CSS_BANKING_VALIDATE.md)
+
 
 ## Install
 
