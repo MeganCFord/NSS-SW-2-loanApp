@@ -1,0 +1,12 @@
+/*
+
+When a valid web URL or email address is entered into the corresponding field, the color of the field should be green.
+If the value is invalid, the color should be red*/
+
+input:invalid {
+	color: red;
+}
+
+input:valid { 
+	color: green;
+ }
